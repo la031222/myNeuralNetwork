@@ -1,3 +1,2 @@
 # myNeuralNetwork
-## test
-why
+预计写一个简单的神经网络，用于练习go语言和学习神经网络原理
